@@ -81,12 +81,3 @@ if __name__ == '__main__':
     ANGLE_INTERVAL = (0, 50)
 
     get_images(LIST_OF_LOCATIONS, CLIENT_ID, RADIUS, ANGLE_INTERVAL, RESOLUTION)
-
-
-
-
-
-
-
-
-
